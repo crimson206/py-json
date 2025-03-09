@@ -1,0 +1,9 @@
+{
+  "name": "module_name",
+  "version": "0.1.0-beta.1",
+  "license": "MIT",
+  "author": "Sisung Kim <sisung.kim1@gmail.com>",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/crimson206/merge-package"
+}

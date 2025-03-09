@@ -1,0 +1,12 @@
+{
+    "name": "temp",
+    "scripts": {
+        "merge-json": "yarn ts-node ts_scripts/merge_json.ts",
+        "create-json": "yarn ts-node ts_scripts/create_json.ts"
+      },
+    "devDependencies": {
+        "package-manage": "^0.1.0-beta.36"
+    }
+  }
+  
+

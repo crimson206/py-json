@@ -1,0 +1,14 @@
+{
+  "name": "temp",
+  "scripts": {
+    "copy-extra": "ts-node ts_scripts/copyExtra.ts"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "creation_log": {
+    "installation_time_ms": 1080,
+    "node_modules_size_bytes": 112787,
+    "date": "2024-09-23T21:07:16.443Z"
+  }
+}

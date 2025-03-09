@@ -1,0 +1,11 @@
+{
+  "name": "temp",
+  "devDependencies": {
+    "react-json-view": "^1.21.3"
+  },
+  "creation_log": {
+    "installation_time_ms": 3638,
+    "node_modules_size_bytes": 2240698,
+    "date": "2024-09-23T21:16:49.793Z"
+  }
+}

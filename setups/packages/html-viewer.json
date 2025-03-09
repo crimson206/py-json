@@ -1,0 +1,7 @@
+{
+    "name": "temp",
+    "devDependencies": {
+        "dompurify": "^3.1.6",
+        "@types/dompurify": "^3.0.5"
+    }
+  }

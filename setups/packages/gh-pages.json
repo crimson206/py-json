@@ -1,0 +1,10 @@
+{
+  "scripts": {
+        "storybook:publish": "yarn build-storybook && touch ./storybook-static/.nojekyll && gh-pages -d ./storybook-static -t true",
+        "remove-blog": "git push origin --delete gh-pages"
+  },
+    "devDependencies": {
+      "gh-pages": "^6.1.1"
+    }
+  }
+  

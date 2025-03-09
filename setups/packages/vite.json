@@ -1,0 +1,17 @@
+{
+  "name": "temp",
+  "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.7",
+    "@vitejs/plugin-react": "^4.2.1"
+  },
+  "creation_log": {
+    "installation_time_ms": 5154,
+    "node_modules_size_bytes": 20922555,
+    "date": "2024-09-23T21:21:38.630Z"
+  }
+}
