@@ -1,0 +1,32 @@
+{
+  "user": {
+    "info": {
+      "personal": {
+        "name": "Kim Chul-soo",
+        "age": 30,
+        "skills": [
+          "Python",
+          "Data Analysis"
+        ]
+      }
+    },
+    "1234": {
+      "account_balance": 50000.75
+    }
+  },
+  "metadata": {
+    "datetime_obj": "2025-03-09 11:17:20.057951",
+    "function": "<function <lambda> at 0x7fa709887420>",
+    "ordered_dict": {
+      "a": 1,
+      "b": 2
+    },
+    "set_data": "{1, 2, 3, 4}"
+  },
+  "mixed_keys": {
+    "name": "Hong Gil-dong",
+    "123": "integer key",
+    "4.5": "float key",
+    "True": "boolean key"
+  }
+}
